@@ -16,6 +16,7 @@
 		F06AFBB5233D29B900D8B9D5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F06AFBB3233D29B900D8B9D5 /* LaunchScreen.storyboard */; };
 		F06AFBC0233D29B900D8B9D5 /* CustomCellMainTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F06AFBBF233D29B900D8B9D5 /* CustomCellMainTests.swift */; };
 		F06AFBCB233D29B900D8B9D5 /* CustomCellMainUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F06AFBCA233D29B900D8B9D5 /* CustomCellMainUITests.swift */; };
+		F06AFBD9233D2BA600D8B9D5 /* ProductCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F06AFBD8233D2BA600D8B9D5 /* ProductCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		F06AFBC6233D29B900D8B9D5 /* CustomCellMainUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CustomCellMainUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F06AFBCA233D29B900D8B9D5 /* CustomCellMainUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCellMainUITests.swift; sourceTree = "<group>"; };
 		F06AFBCC233D29B900D8B9D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F06AFBD8233D2BA600D8B9D5 /* ProductCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				F06AFBB3233D29B900D8B9D5 /* LaunchScreen.storyboard */,
 				F06AFBB6233D29B900D8B9D5 /* Info.plist */,
 				F06AFBAE233D29B700D8B9D5 /* CustomCellMain.xcdatamodeld */,
+				F06AFBD8233D2BA600D8B9D5 /* ProductCollectionViewCell.swift */,
 			);
 			path = CustomCellMain;
 			sourceTree = "<group>";
@@ -264,6 +267,7 @@
 			files = (
 				F06AFBAA233D29B700D8B9D5 /* ViewController.swift in Sources */,
 				F06AFBA6233D29B700D8B9D5 /* AppDelegate.swift in Sources */,
+				F06AFBD9233D2BA600D8B9D5 /* ProductCollectionViewCell.swift in Sources */,
 				F06AFBA8233D29B700D8B9D5 /* SceneDelegate.swift in Sources */,
 				F06AFBB0233D29B700D8B9D5 /* CustomCellMain.xcdatamodeld in Sources */,
 			);
