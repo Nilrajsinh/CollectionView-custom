@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F060A18B233DF4B30070D40D /* DetialViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F060A18A233DF4B30070D40D /* DetialViewController.swift */; };
 		F06AFBA6233D29B700D8B9D5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F06AFBA5233D29B700D8B9D5 /* AppDelegate.swift */; };
 		F06AFBA8233D29B700D8B9D5 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F06AFBA7233D29B700D8B9D5 /* SceneDelegate.swift */; };
 		F06AFBAA233D29B700D8B9D5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F06AFBA9233D29B700D8B9D5 /* ViewController.swift */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F060A18A233DF4B30070D40D /* DetialViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetialViewController.swift; sourceTree = "<group>"; };
 		F06AFBA2233D29B700D8B9D5 /* CustomCellMain.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CustomCellMain.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F06AFBA5233D29B700D8B9D5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F06AFBA7233D29B700D8B9D5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -112,6 +114,7 @@
 				F06AFBB6233D29B900D8B9D5 /* Info.plist */,
 				F06AFBAE233D29B700D8B9D5 /* CustomCellMain.xcdatamodeld */,
 				F06AFBD8233D2BA600D8B9D5 /* ProductCollectionViewCell.swift */,
+				F060A18A233DF4B30070D40D /* DetialViewController.swift */,
 			);
 			path = CustomCellMain;
 			sourceTree = "<group>";
@@ -266,6 +269,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F06AFBAA233D29B700D8B9D5 /* ViewController.swift in Sources */,
+				F060A18B233DF4B30070D40D /* DetialViewController.swift in Sources */,
 				F06AFBA6233D29B700D8B9D5 /* AppDelegate.swift in Sources */,
 				F06AFBD9233D2BA600D8B9D5 /* ProductCollectionViewCell.swift in Sources */,
 				F06AFBA8233D29B700D8B9D5 /* SceneDelegate.swift in Sources */,
